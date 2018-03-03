@@ -1,1 +1,1 @@
-# todo_list
+install node.js to start the app
