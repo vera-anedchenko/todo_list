@@ -1,0 +1,20 @@
+.todo_list_form {
+  margin: 30px auto;
+  max-width: 500px;
+  padding: 20px 40px;
+  background:#009edf;
+  color: #FFF;
+  text-shadow: none;
+  box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.31);
+}
+
+h1 {
+  font-weight: 1000;
+
+}
+
+.btn {
+  width: 100%;
+  margin: 20px 0;
+}
+
